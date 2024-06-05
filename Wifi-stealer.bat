@@ -1,5 +1,5 @@
 @echo off
-title ddosBOX - adixon23w
+title WifiStealer - adixon23w
 color 4
 :menu
 cls
